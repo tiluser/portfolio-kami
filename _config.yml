@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "http://tiluser.github.io/portfolio-kami/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Joseph M. O'Connor
+  description: "A website with my personal portfolio of projects and blogposts" # used by search engines
 
-  # Header and footer text
+  # Header and footer textA website with my personal portfolio of projects and blogposts
   header_text: >
      <h1>Witty & Hilarious Rails Developer</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
@@ -18,23 +18,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "tiluser0@gmail.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "joseph.oconnor.501598"
   flickr:
   github: # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/oconnorjm252/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "tiluser"
   wordpress:
   youtube:
 
